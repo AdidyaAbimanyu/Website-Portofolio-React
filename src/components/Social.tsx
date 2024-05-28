@@ -18,7 +18,7 @@ const Social = () => {
           <h5>GitHub</h5>
         </div>
         <div className="col-md-4">
-          <a href="@adidyawork88@gmail.com">
+          <a href="https://drive.google.com/file/d/114_I_T-ZREixVi7ROf-9AX9w_hIozWtm/view?usp=sharing">
             <i className="bi bi-file-earmark-person"></i>
           </a>
           <h5>Resume</h5>
