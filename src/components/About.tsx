@@ -1,6 +1,5 @@
 import React from "react";
 import Marquee from "react-fast-marquee";
-import 'bootstrap/dist/css/bootstrap.min.css';
 import '../images/c.png';
 import '../images/cpp.png';
 import '../images/java.png';
